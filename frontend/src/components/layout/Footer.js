@@ -128,7 +128,7 @@ const Footer = () => {
       <FooterContent>
         <FooterColumn>
           <FooterLogo>
-            <img src="/images/logo.png" alt="SYCA SPA Logo" />
+            <img src="./images/logo.png" alt="SYCA SPA Logo" />
             <h2>SYCA SPA</h2>
           </FooterLogo>
           <FooterDescription>

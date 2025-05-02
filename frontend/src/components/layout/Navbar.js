@@ -176,7 +176,7 @@ const Navbar = () => {
     }}>
       <NavContent>
         <Logo to="/">
-          <img src="/images/logo.png" alt="SYCA SPA Logo" />
+          <img src="./images/logo.png" alt="SYCA SPA Logo" />
           <span>SYCA SPA</span>
         </Logo>
         
